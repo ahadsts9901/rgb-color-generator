@@ -185,6 +185,9 @@ hr {
         font-size: 1em;
     }
 
+    body {
+        padding-right: 0em;
+    }
 
 }
 
@@ -195,5 +198,8 @@ hr {
         font-size: 0.8em;
     }
 
+    body {
+        padding-right: 0em;
+    }
 
 }
