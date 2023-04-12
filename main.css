@@ -150,6 +150,7 @@ hr {
         flex-direction: column;
         margin: 0em;
         padding: 0em;
+        padding-right: 0em;
     }
 
     body .brown {
